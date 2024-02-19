@@ -1015,10 +1015,10 @@ section {
 }
 
 .card {
-  height: 50vh;
+  height: 55vh;
 }
 
-.card .card-info {
+.card-info {
   height: 30vh;
 }
 
